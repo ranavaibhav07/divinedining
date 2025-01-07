@@ -15,9 +15,7 @@
 
 <br />
 
-### Run Locally
 
-To run **Grilli** locally, run this command on your git bash:
 
 
 
